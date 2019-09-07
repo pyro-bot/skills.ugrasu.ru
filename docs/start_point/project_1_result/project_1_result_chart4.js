@@ -38,6 +38,8 @@ var layout = {
   title: 'ППС прошли обучение на курсах повышения квалификации',
   barmode: 'group',
   autosize: true,
+  width: 800,
+  height: 600,
   };
 
 Plotly.newPlot('chart4', data, layout, {showSendToCloud:true});

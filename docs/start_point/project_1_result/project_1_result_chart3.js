@@ -42,10 +42,8 @@ var layout = {
   title: 'Студентов первого курса по направлениям',
   barmode: 'group',
   autosize: true,
-  legend: {
-    x: 10,
-    y: 1
-  }
+  width: 800,
+  height: 600,
 };
 
 Plotly.newPlot('chart3', data, layout, {showSendToCloud:true});

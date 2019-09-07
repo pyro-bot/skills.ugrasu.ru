@@ -1,4 +1,6 @@
-![logo](images/logo/logo.png)
+<a href="https://www.ugrasu.ru" target="_blank">
+    ![logo](images/logo/logo.png)
+</a>
 
 # **Описание проекта**
 

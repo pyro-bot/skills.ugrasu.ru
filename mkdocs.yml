@@ -16,7 +16,8 @@ theme:
   language: 'ru'
   palette:
     primary: 'Blue'
-    accent: 'Red'
+    accent: 'Blue'
   feature:
     tabs: true
-  # logo: images/logo/logo_cut.png
+  logo: images/logo/logo_cut_white.png
+  favicon: images/logo/favicon.ico

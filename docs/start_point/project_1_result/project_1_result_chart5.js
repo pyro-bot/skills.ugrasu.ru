@@ -37,10 +37,8 @@ var layout = {
   title: 'Количество ППС моложе 35 лет',
   barmode: 'group',
   autosize: true,
-  legend: {
-    x: 10,
-    y: 1
-  }
+  width: 800,
+  height: 600,
 };
 
 Plotly.newPlot('chart5', data, layout, {showSendToCloud:true});
