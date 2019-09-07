@@ -1,18 +1,16 @@
-<!-- <link rel="stylesheet" type="text/css" href="css/mermaid.css"> -->
+<link rel="stylesheet" type="text/css" href="css/mermaid.css">
 <script src="https://unpkg.com/mermaid@8.2/dist/mermaid.min.js"></script>
 <script>
     var config = {
+            theme: null,
+            themeCSS: '',
             startOnLoad:true,
             htmlLabels:true,
-            callback:function(id){
-                console.log(id,' rendered');
-            },
-            flowchart:{
-                    useMaxWidth:false,
+            flowchart: {
+                    useMaxWidth:true,
                 }
         };
     mermaid.initialize(config);
-
 </script>
 
 # Целевой прием в Югорский государственный университет

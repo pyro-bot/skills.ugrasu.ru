@@ -2,13 +2,13 @@
 /* Sequence Diagram variables */
 /* Gantt chart variables */
 .mermaid .label {
-  color: #333;
+  color: rgb(255, 255, 255);
 }
 .node rect,
 .node circle,
 .node ellipse,
 .node polygon {
-  fill: #ECECFF;
+  fill: rgb(82, 130, 233);
   stroke: #CCCCFF;
   stroke-width: 1px;
 }
