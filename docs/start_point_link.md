@@ -1,1 +1,1 @@
-redirect: /start_point/reference/
+redirect: ../start_point/reference/

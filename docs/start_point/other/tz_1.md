@@ -3,9 +3,9 @@
 *21.03.01 «Нефтегазовое дело»*
 
 
-[Скачать докумет](Техническое_задание_на_выполнение_НИР_НГД.docx)
+[Скачать докумет](tz.docx)
 
 **Онлаин просмотр**
-<iframe src="https://docs.google.com/gview?url=https://pyro-bot.github.io/ygu-static-site/start_point/other/tz_1/Техническое_задание_на_выполнение_НИР_НГД.docx&embedded=true" frameborder="0" style="width: 100%; height: 700px;">
+<iframe src="https://docs.google.com/gview?url=http://skills.ugrasu.ru/start_point/other/tz_1/tz.docx&embedded=true" frameborder="0" style="width: 100%; height: 700px;">
 Загрузка документа....
 </iframe>

@@ -9,9 +9,9 @@
 - Данилова Любовь Филипповна
 - Аюпов Роман Шамильевич
 
-[Скачать докумет](Идентификация_БД.doc)
+[Скачать докумет](bd.doc)
 
 **Онлаин просмотр**
-<iframe src="https://docs.google.com/gview?url=https://pyro-bot.github.io/ygu-static-site/start_point/other/bd/Идентификация_БД.doc&embedded=true" frameborder="0" style="width: 100%; height: 700px;">
+<iframe src="https://docs.google.com/gview?url=http://skills.ugrasu.ru/start_point/other/bd/bd.doc&embedded=true" frameborder="0" style="width: 100%; height: 700px;">
 Загрузка документа....
 </iframe>

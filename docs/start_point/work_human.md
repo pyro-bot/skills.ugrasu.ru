@@ -5,9 +5,9 @@
 </script>
 </script> -->
 
-[Скачать докумет](Конкурс_Славим_человека_труда.pdf)
+[Скачать докумет](human.pdf)
 
-<iframe src="https://docs.google.com/gview?url=https://pyro-bot.github.io/ygu-static-site/start_point/work_human/Конкурс_Славим_человека_труда.pdf&embedded=true" frameborder="0" style="width: 100%; height: 700px;">
+<iframe src="https://docs.google.com/gview?url=http://skills.ugrasu.ru/start_point/work_human/human.pdf&embedded=true" frameborder="0" style="width: 100%; height: 700px;">
 Загрузка документа....
 </iframe>
 
