@@ -7,6 +7,7 @@
 
 [Скачать докумет](human.pdf)
 
+**Онлаин просмотр**
 <iframe src="https://docs.google.com/gview?url=http://skills.ugrasu.ru/start_point/work_human/human.pdf&embedded=true" frameborder="0" style="width: 100%; height: 700px;">
 Загрузка документа....
 </iframe>
