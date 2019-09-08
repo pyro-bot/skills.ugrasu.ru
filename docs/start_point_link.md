@@ -1,0 +1,1 @@
+redirect: /start_point/project_1/
